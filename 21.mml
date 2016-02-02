@@ -1,0 +1,63 @@
+<math xmlns="https://www.w3.org/1998/Math/MathML/">
+<mrow>
+  <mo stretchy="false">{</mo>
+  <munder>
+    <mrow>
+      <mover>
+        <mrow>
+          <mpadded width="0em"><mphantom><mo>(</mo></mphantom></mpadded>
+          <mi>a</mi>
+          <mo>,</mo>
+          <mo>...</mo>
+          <mo>,</mo>
+          <mi>a</mi>
+        </mrow>
+
+        <mover>
+          <mo>&#226;&#143;&#158;</mo>
+          <mrow>
+            <mi>k</mi>
+            <mtext>&#160;</mtext>
+            <mi>a</mi>
+            <mtext>'s</mtext>
+
+          </mrow>
+        </mover>
+      </mover>
+      <mo>,</mo>
+      <mover>
+        <mrow>
+          <mpadded width="0em"><mphantom><mo>(</mo></mphantom></mpadded>
+          <mi>b</mi>
+          <mo>,</mo>
+          <mo>...</mo>
+          <mo>,</mo>
+          <mi>b</mi>
+        </mrow>
+
+        <mover>
+          <mo>&#226;&#143;&#158;</mo>
+          <mrow>
+            <mi>&#226;&#132;&#147;</mi>
+            <mtext>&#160;</mtext>
+            <mi>b</mi>
+            <mtext>'s</mtext>
+          </mrow>
+
+        </mover>
+      </mover>
+    </mrow>
+    <munder>
+      <mo>&#226;&#143;&#159;</mo>
+      <mrow>
+        <mi>k</mi>
+        <mo>+</mo>
+
+        <mi>&#226;&#132;&#147;</mi>
+        <mtext>&#160;elements</mtext>
+      </mrow>
+    </munder>
+  </munder>
+  <mo stretchy="false">}</mo>
+</mrow>
+</math>

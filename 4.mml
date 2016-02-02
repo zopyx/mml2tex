@@ -1,10 +1,14 @@
-    <math xmlns="http://www.w3.org/1998/Math/MathML">
-      <apply> 
-        <approx/> 
-        <cn type="rational"> 22 
-          <sep/> 7 
-        </cn> 
-        <cn type="constant"> &pi; </cn> 
-      </apply> 
-    </math>
-    
+<math xmlns="https://www.w3.org/1998/Math/MathML/">
+<mrow>
+  <mfrac>
+    <mi>a</mi>
+
+    <mrow>
+      <mi>b</mi>
+      <mo>/</mo>
+      <mn>2</mn>
+    </mrow>
+  </mfrac>
+</mrow>
+</math>
+

@@ -1,0 +1,35 @@
+<math xmlns="https://www.w3.org/1998/Math/MathML/">
+<mrow>
+  <munder>
+    <mo>&#226;&#136;&#145;</mo>
+    <mrow>
+      <mfrac linethickness="0px">
+        <mrow>
+          <mn>0</mn>
+          <mo>&#226;&#137;&#164;</mo>
+
+          <mi>i</mi>
+          <mo>&#226;&#137;&#164;</mo>
+          <mi>m</mi>
+        </mrow>
+        <mrow>
+          <mn>0</mn>
+          <mo>&lt;</mo>
+
+          <mi>j</mi>
+          <mo>&lt;</mo>
+          <mi>n</mi>
+        </mrow>
+      </mfrac>
+    </mrow>
+  </munder>
+  <mi>P</mi>
+
+  <mo stretchy="false">(</mo>
+  <mi>i</mi>
+  <mo>,</mo>
+  <mi>j</mi>
+  <mo stretchy="false">)</mo>
+</mrow>
+</math>
+

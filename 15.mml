@@ -1,0 +1,14 @@
+<math xmlns="https://www.w3.org/1998/Math/MathML/">
+<mrow>
+  <msubsup>
+    <mo stretchy="false">&#226;&#136;&#171;</mo>
+    <mn>1</mn>
+    <mi>x</mi>
+ </msubsup>
+ <mfrac>
+
+   <mrow><mi>d</mi><mi>t</mi></mrow>
+   <mi>t</mi>
+ </mfrac>
+</mrow>
+</math>

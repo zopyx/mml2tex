@@ -1,7 +1,21 @@
-    <math xmlns="http://www.w3.org/1998/Math/MathML">
-    <apply>
-      <in/>
-      <cn type="complex-cartesian">17<sep/>29</cn>
-      <complexes/>
-    </apply>
-    </math>
+<math xmlns="https://www.w3.org/1998/Math/MathML/">
+<mrow>
+  <mfrac>
+    <mrow>
+      <mi>x</mi>
+      <mo>+</mo>
+
+      <msup>
+        <mi>y</mi>
+        <mn>2</mn>
+      </msup>
+    </mrow>
+    <mrow>
+      <mi>k</mi>
+
+      <mo>+</mo>
+      <mn>1</mn>
+    </mrow>
+  </mfrac>
+</mrow>
+</math>

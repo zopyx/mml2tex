@@ -1,0 +1,12 @@
+<math xmlns="https://www.w3.org/1998/Math/MathML/">
+<mrow>
+  <msub>
+    <mo>&#226;&#136;&#172; <!-- \iint --></mo>
+    <mi>D</mi>
+  </msub>
+  <mi>d</mi><mi>x</mi>
+  <mspace width="thinmathspace"></mspace>
+
+  <mi>d</mi><mi>y</mi>
+</mrow>
+</math>
